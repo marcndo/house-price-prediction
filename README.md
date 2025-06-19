@@ -76,5 +76,3 @@ This project demonstrates how to leverage machine learning techniques—specific
 - Learned how feature engineering and EDA impact predictive performance
 - Deployment with Hugging Face & Gradio for real-world accessibility
 
-## 📁 Folder Structure
-
